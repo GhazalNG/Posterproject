@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color:white
+}
+
+#all {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 200px
+}
+
+img {
+    width: 100%;
+    border: 5px solid white
+}
